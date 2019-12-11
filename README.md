@@ -1,12 +1,12 @@
 
 
-cd ClientServer/Client
+>cd ClientServer/Client
 
-make
+>make
 
-cd ../Server
+>cd ../Server
 
-mvn clean compile (or ~/bin/mvn if mvn is not in the path)
+>mvn clean compile (or ~/bin/mvn if mvn is not in the path)
 
 
 *More information in the assignment PDF.
