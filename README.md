@@ -1,6 +1,6 @@
 
 
->cd ClientServer/Client
+>cd ClientServer/Client\n
 >make 
 >cd ../Server
 >mvn clean compile (or ~/bin/mvn if mvn is not in the path)
